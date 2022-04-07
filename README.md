@@ -1,2 +1,2 @@
 # gopl.io
-The go programming language book
+The go programming language book materials
